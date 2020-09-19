@@ -14,8 +14,8 @@ Peter the Great St.Ppetersburg Polytechnic University 2004-2010.
 **Engineer physicist**, specialization nuclear power plant.
 #
 
-#### Work expeeriense: 
-* 2011-2015 **project Manager** on factory which produced parts for power plant station.
+#### Work experiense: 
+* 2011-2015 **project Manager** on factory which produced parts for power plant stations.
 
 I've never worked in the software industry but have a lot of passion for Web development. I really love it when a web site works well, correct, and perfectly organized. 
 I hope my skills will help me become a wonderful specialist in this industry.
@@ -25,7 +25,13 @@ I hope my skills will help me become a wonderful specialist in this industry.
  Now my **hard skills** are not so strong. I just begin my RSAcademy course.
 But, I know enough about **HTML, CSS, JavaScript, Bootstrap** and can make simple web pages.
 #
-**Soft skills:** *communications, helpfulness,patience, open-mindedness, creativity, time management.*
+**Soft skills:**
+* communications, 
+* helpfulness,
+* patience, 
+* open-mindedness,
+* creativity, 
+* time management.
 #
 #### Languages: English - *level A2.*
 

@@ -33,7 +33,8 @@ But, I know enough about **HTML, CSS, JavaScript, Bootstrap** and can make simpl
 * creativity, 
 * time management.
 #
-#### Languages: English - *level A2.*
+#### Languages: 
+###### English - *level A2.*
 
 
 

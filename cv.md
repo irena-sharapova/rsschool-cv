@@ -44,8 +44,7 @@ function Buttons({ items, onClick }) {
 ```
 
 ## Work Experience
-#### Capstone project for LaunchCode Full-Stack Web Developer Bootcamp - USA
-##### 2024 – 2025
+#### 2024 – 2025 Capstone project for LaunchCode Full-Stack Web Developer Bootcamp - USA
 
 - Developed an online quiz app where users can answer random questions, earn points, and compete for top spots with other users. The app encourages users to expand their knowledge in different categories such as history, science, sports, and more.
 - Implemented full CRUD functionality, allowing users to create/delete accounts, update profiles, manage friend connections, and store data efficiently in the database.
@@ -53,19 +52,18 @@ function Buttons({ items, onClick }) {
 - Developed a feature that allows registered users to leave their reviews.
 - Full Project Tech Stack: Java, JavaScript, React, Spring Boot, MySQL Workbench, Open Trivia API.
 
-#### Project Manager / Engineer — Pump Manufacturing for Power Plants (Russia)
-##### 2012 – 2018
+#### 2012 – 2018 Project Manager / Engineer — Pump Manufacturing for Power Plants (Russia)
 
 - Led international engineering projects, ensuring projects were completed 10% under budget and 15% ahead of schedule by optimizing workflows and resource management.
 - Collaborated with cross-departmental teams to streamline processes and ensure smooth project delivery, achieving a 95% client satisfaction rate.
 - Built client trust through transparent communication, increasing repeat business by 40%.
 
 ## Education
-#### LaunchCode Program 
-Full-Stack Web Development (Java, React, Spring Boot, SQL)
+#### LaunchCode Web Development Bootcamp
+- Full-Stack Web Development Program (Java, React, Spring Boot, SQL)
 
 #### Peter the Great St. Petersburg Polytechnic University (Russia)
-Bachelor's degree, Bachelor of Engineering - Technical Physics
+- Bachelor's degree, Bachelor of Engineering - Technical Physics
 
 ## English Language
 #### Level: Upper-Intermediate (B2)

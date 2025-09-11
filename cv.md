@@ -60,9 +60,11 @@ function Buttons({ items, onClick }) {
 
 ## Education
 #### LaunchCode Web Development Bootcamp
+
 - Full-Stack Web Development Program (Java, React, Spring Boot, SQL)
 
 #### Peter the Great St. Petersburg Polytechnic University (Russia)
+
 - Bachelor's degree, Bachelor of Engineering - Technical Physics
 
 ## English Language

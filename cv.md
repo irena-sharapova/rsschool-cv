@@ -1,19 +1,17 @@
 # Irina Sharapova
-(___)
+
 ## Contact
-(___)
 - Location: Philadelphia PA, USA
 - Phone: +1-475-685-84-66
 - Email: ir.ur.smirnova@gmail.com
 - GitHub: <https://github.com/irena-sharapova>
 - Linkedin: <https://www.linkedin.com/in/irina-sharapova-design-and-define/>
+- [Portfolio Website](https://irena-sharapova.github.io/Portfolio_project)
   
 ## About Me
-(___)
 Results-driven Web Developer with a strong foundation in JavaScript and Java and 6 years of proven success leading international engineering projects. Skilled in problem-solving, collaboration, and delivering high-quality solutions on time and under budget. Ready to leverage both technical expertise and project management experience to contribute to a dynamic, innovative development team.
 
 ## Skills
-(___)
 - **Languages:** Java, JavaScript (ES6+), SQL, HTML5, CSS3  
 - **Frameworks / Libraries:** React, Spring Boot, Bootstrap, Thymeleaf  
 - **Databases:** MySQL  
@@ -22,10 +20,7 @@ Results-driven Web Developer with a strong foundation in JavaScript and Java and
 - **Methodologies:** Agile, MVC pattern, Clean Code principles  
   
 ## Code Examples
-(___)
-- [Portfolio Website](https://irena-sharapova.github.io/Portfolio_project)
-  
-- // Example: Java Spring Boot REST endpoint
+- Example: Java Spring Boot REST endpoint
 ```
 @GetMapping("/api/skills")
 public List<Skill> getAllSkills() {
@@ -33,7 +28,7 @@ public List<Skill> getAllSkills() {
 }
 ```
 
-- // Example: React component rendering a button list
+- Example: React component rendering a button list
 ```
 function Buttons({ items, onClick }) {
   return (
@@ -49,7 +44,6 @@ function Buttons({ items, onClick }) {
 ```
 
 ## Work Experience
-(___)
 #### Capstone project for LaunchCode Full-Stack Web Developer Bootcamp - USA
 #### 2024 – 2025
 
@@ -59,16 +53,6 @@ function Buttons({ items, onClick }) {
 - Developed a feature that allows registered users to leave their reviews.
 - Full Project Tech Stack: Java, JavaScript, React, Spring Boot, MySQL Workbench, Open Trivia API.
 
-#### Freelance Photographer — USA
-#### 2023 – 2025
-
-- Manages photography projects, meeting deadlines and requirements with a 99% client satisfaction rate.
-- Optimizes image quality, reducing post-production corrections in Photoshop and Lightroom by 95%.
-
-#### Career Break — Relocated to the USA
-#### September 2019 - March 2023
-- Focused on professional development by learning photography skills and completing courses in Lightroom and Photoshop. 
-
 #### Project Manager / Engineer — Pump Manufacturing for Power Plants (Russia)
 #### 2012 – 2018
 
@@ -77,7 +61,6 @@ function Buttons({ items, onClick }) {
 - Built client trust through transparent communication, increasing repeat business by 40%.
 
 ## Education
-(___)
 #### LaunchCode Program 
 Full-Stack Web Development (Java, React, Spring Boot, SQL)
 
@@ -85,9 +68,5 @@ Full-Stack Web Development (Java, React, Spring Boot, SQL)
 Bachelor's degree, Bachelor of Engineering - Technical Physics
 
 ## English Language:
-(___)
 #### Level: Upper-Intermediate (B2)
-
-- Practiced English daily in professional settings (project management & freelancing).
-
-- Improved fluency through technical courses, client communication.
+- Practicing English daily, improved fluency through technical courses
